@@ -49,10 +49,18 @@ JAY仓库：https://www.likejay.cn/
 图欧：https://tuostudy.com/
 
 --------------------
-https://o.nxog.top/nxog/nxog1.php?b=装逼
+讴歌：https://o.nxog.top/nxog/nxog1.php?b=装逼
 
-http://t.nxog.top/nxog/nxog1.php?b=157620
+讴歌157620：http://t.nxog.top/nxog/nxog1.php?b=157620
 
-http://1558809.3vkj.club/0.json
+讴歌123456：https://o.nxog.top/nxog/nxog1.php?b=123456
 
-https://o.nxog.top/nxog/nxog1.php?b=123456
+自用：http://1558809.3vkj.club/0.json
+
+刘备：https://raw.liucn.cc/box/m.json
+
+XC：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
+
+不明：https://agit.ai/hu/hcr/raw/branch/master/99668.txt
+
+星河科技：https://agit.ai/pinghui/xinghe/raw/branch/master/xinghe.txt
