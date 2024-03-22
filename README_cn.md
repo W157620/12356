@@ -1,7 +1,3 @@
-### 网址收藏
-
-![](https://img1.imgtp.com/2023/08/11/ue9K2X0P.png)
-
 ------------
 
 吾爱破解：[https://www.52pojie.cn](https://www.52pojie.cn "https://www.52pojie.cn")
@@ -43,8 +39,6 @@ https://www.maihao168.com/
 #高教书苑：https://ebook.hep.com.cn/index.html/index
 
 #中国高校教材网：https://www.sinobook.com.cn/book/
-
-![](https://img1.imgtp.com/2023/08/11/vctYEybg.png)
 
 #熊猫搜书：https://xmsoushu.com/#/
 
