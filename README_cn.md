@@ -47,3 +47,9 @@ https://www.maihao168.com/
 JAY仓库：https://www.likejay.cn/
 
 图欧：https://tuostudy.com/
+
+--------------------
+https://o.nxog.top/nxog/nxog1.php?b=装逼
+http://t.nxog.top/nxog/nxog1.php?b=157620
+http://1558809.3vkj.club/0.json
+https://o.nxog.top/nxog/nxog1.php?b=123456
