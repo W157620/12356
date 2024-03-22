@@ -65,6 +65,6 @@ XC：https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
 星河科技：https://agit.ai/pinghui/xinghe/raw/branch/master/xinghe.txt
 
-云星日记：http://itvbox.cc/可视TV/云星日记/仓库.json
-
-          http://itvbox.cc/tvbox/云星日记/1.m3u8
+云星日记：
+1.http://itvbox.cc/可视TV/云星日记/仓库.json
+2.http://itvbox.cc/tvbox/云星日记/1.m3u8
